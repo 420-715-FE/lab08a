@@ -8,6 +8,8 @@ Vous remarquerez l'inclusion d'un dossier `public` dans le dépôt. Plusieurs pr
 
 Tout navigateur Web récent possède une console que vous pouvez ouvrir et dans laquelle le code JavaScript peut écrire. Sur Firefox et sur Chrome, on accède à cette console en appuyant sur la touche **F12**, puis en cliquant sur l'onglet `Console`. Lorsque du code JavaScript appelle la fonction `console.log` en lui passant du texte, celui-ci s'affiche dans la console.
 
+> **CONSEIL:** Faites **CTRL+F5** entre vos tests pour vous assurer que vos scripts s'actualisent correctement.
+
 ## Étape 1
 
 Complétez le code du fichier `public/js/etape1.js` afin de tester toutes vos routes d'API. Utilisez des `console.log` pour valider vos résultats.
