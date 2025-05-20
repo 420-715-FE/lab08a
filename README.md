@@ -29,3 +29,4 @@ Vous ne voudrez probablement pas exécuter les routes de modification (méthodes
 
 ## Étape 2
 
+Vous avez présentement une architecture MVC sur le *backend*. Pourquoi ne pas implémenter un début d'architecture MVC sur le *frontend* également? Le fichier `public/js/etape2.js` importe le contenu du fichier `albumsModel.js`, qui lui définit la classe `AlbumsModel` du *frontend*. Les méthodes de cette classe sont responsables des appels à l'API. Complétez le code de ces méthodes, et testez-les bien dans le fichier `etape2.js`.
