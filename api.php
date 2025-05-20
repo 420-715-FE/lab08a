@@ -5,7 +5,7 @@
   de ce fichier à partir de htdocs, avec `/api/` à la fin)
   *** Ne PAS omettre les barres obliques au début et à la fin ***
 */
-const BASE_URL = "/lab07/api/";
+const BASE_URL = "/lab08a/api/";
 
 require_once("db.php");
 require_once("models/album.php");
